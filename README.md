@@ -1,4 +1,3 @@
-# E-Commerce-website-
 # E-Commerce Website
 
 This project is a full-featured e-commerce website built with Java, Spring Boot, Thymeleaf, and Spring Security. It provides a user-friendly interface for customers to browse products, manage their accounts, and complete purchases. Additionally, an admin panel allows for product management and order oversight.
